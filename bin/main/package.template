@@ -1,0 +1,10 @@
+{
+  "name": "IBMWatson",
+  "label": "IBM Watson",
+  "description": "Provides actions for IBM Watson operations.",
+  "group": "",
+  "artifactName": "",
+  "packageVersion": "",
+  "codeVersion": "",
+  "commands": []
+}
